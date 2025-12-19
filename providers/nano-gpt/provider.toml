@@ -1,0 +1,5 @@
+name = "Nano-GPT"
+env = ["NANO_GPT_API_KEY"]
+npm = "@ai-sdk/openai-compatible"
+api = "https://nano-gpt.com/v1"
+doc = "https://nano-gpt.com/docs"
